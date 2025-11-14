@@ -34,5 +34,8 @@ Important : aucun besoin d’Internet réel pour ce TP. On reste dans une maquet
 
 ### voilà pour mon routeur/pare-feu (fw):
 
-![](./IMG/image copy.png)
+![](./IMG/img2.png)
+![](./IMG/img3.png)
 
+## et enfin voilà pour mon serveur dmz: 
+![](./IMG/img4.png)
