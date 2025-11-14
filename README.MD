@@ -26,5 +26,13 @@ Important : aucun besoin d’Internet réel pour ce TP. On reste dans une maquet
 
 ## Étape 1 — Configuration IP de base 
 
-- Dans un premier temps , j'ai du aller dans les settings de ma VM puis dans réseau afin de paramétrer mes VMS comme demandé 
+- Dans un premier temps , j'ai du aller dans les settings de ma VM puis dans réseau afin de paramétrer mes VMS comme demandé.
+
+### voilà pour ma VM (lan-cli) sur le réseau interne lan_int:
+
 ![](./IMG/image.png)
+
+### voilà pour mon routeur/pare-feu (fw):
+
+![](./IMG/image copy.png)
+
