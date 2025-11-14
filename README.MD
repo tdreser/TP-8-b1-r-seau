@@ -53,4 +53,4 @@ Important : aucun besoin d’Internet réel pour ce TP. On reste dans une maquet
 
 ### lan-cli → ping vers l’IP lan_int de fw.
 
-![](./IMG/img8.png)
+![](./IMG/img.8.png)
