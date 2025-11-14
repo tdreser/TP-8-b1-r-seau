@@ -39,3 +39,18 @@ Important : aucun besoin d’Internet réel pour ce TP. On reste dans une maquet
 
 ## et enfin voilà pour mon serveur dmz: 
 ![](./IMG/img4.png)
+
+## Ensuite, j'ai attribué les ip statiques 
+- lan-cli:
+![](./IMG/img5.png)
+
+- routeur/pare-feu (fw):
+![](./IMG/img6.png)
+
+- serveur dmz:
+![](./IMG/img7.png)
+## Et enfin voici la preuve attendue
+
+### lan-cli → ping vers l’IP lan_int de fw.
+
+![](./IMG/img8.png)
